@@ -1,6 +1,8 @@
 package chess;
 
 import boardGame.Board;
+import boardGame.Position;
+import chess.pieces.King;
 
 public class ChessMatch {
 
@@ -8,6 +10,7 @@ public class ChessMatch {
 
     public ChessMatch() {
         board = new Board(8,8);
+        initialSetup();
     }
 
     //Mostra as peças de xadrez para cada partida
@@ -20,5 +23,10 @@ public class ChessMatch {
             }
         }
         return matriz;
+    }
+
+    //Iniciar uma partida
+    private void initialSetup(){
+        board.placePiece(new King(board, Color.BLACK), new Position(0,4));
     }
 }
