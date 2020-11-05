@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e46d39c-e8fe-495e-881e-cdd218805e8e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boardGame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardGame/Board.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,5 +123,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="860" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1604608155094" />
+    <state width="577" height="244" key="GridCell.Tab.0.bottom" timestamp="1604609749064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="577" height="244" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604609749064" />
+    <state width="577" height="244" key="GridCell.Tab.0.center" timestamp="1604609749064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="577" height="244" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604609749064" />
+    <state width="577" height="244" key="GridCell.Tab.0.left" timestamp="1604609749064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="577" height="244" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604609749064" />
+    <state width="577" height="244" key="GridCell.Tab.0.right" timestamp="1604609749064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="577" height="244" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604609749064" />
   </component>
 </project>
