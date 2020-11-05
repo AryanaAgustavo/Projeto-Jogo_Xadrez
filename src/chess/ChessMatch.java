@@ -10,6 +10,7 @@ public class ChessMatch {
         board = new Board(8,8);
     }
 
+    //Mostra as peças de xadrez para cada partida
     public ChessPiece[][] getPieces(){
         ChessPiece[][] matriz = new ChessPiece[board.getRows()][board.getColumns()];
 
